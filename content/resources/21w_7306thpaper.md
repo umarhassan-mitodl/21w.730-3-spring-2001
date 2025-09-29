@@ -4,6 +4,8 @@ description: ''
 file: /courses/21w-730-3-expository-writing-autobiography-theory-and-practice-spring-2001/6754c51d6bdb51a5d0b384d6221f05a8_21W_7306thpaper.pdf
 file_size: 49632
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

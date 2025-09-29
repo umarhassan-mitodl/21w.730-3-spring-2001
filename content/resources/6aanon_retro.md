@@ -4,6 +4,8 @@ description: Student response to sixth written assignment.
 file: /courses/21w-730-3-expository-writing-autobiography-theory-and-practice-spring-2001/fcb5ffe983eae14c144d6f820aa53b47_6aanon_retro.pdf
 file_size: 251318
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

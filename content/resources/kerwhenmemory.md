@@ -5,6 +5,8 @@ description: 'Ideas from Jill Ker Conway?s book on Women?s Autobiography: "When 
 file: /courses/21w-730-3-expository-writing-autobiography-theory-and-practice-spring-2001/dd16ae4ad7658d7a462741dbe2d2f876_kerwhenmemory.pdf
 file_size: 108589
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
