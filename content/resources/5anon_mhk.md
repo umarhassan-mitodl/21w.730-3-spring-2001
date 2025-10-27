@@ -4,8 +4,6 @@ description: Student response to fifth written assignment.
 file: /courses/21w-730-3-expository-writing-autobiography-theory-and-practice-spring-2001/db649951ea6a26dda460f5d5c5f992c8_5anon_mhk.pdf
 file_size: 235034
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

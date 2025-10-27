@@ -11,11 +11,11 @@ uid: 0f289c98-d508-98ed-5636-99956082a089
 
 The following texts and materials used in the course - links to PDF files are reading notes for students. See the {{% resource_link "8b0d1868-4545-6a1f-a81c-7df1be414786" "calendar" %}} for details of readings due each class session.
 
-Strunk and White. [_The Elements of Style_](http://www.bartleby.com/141/)_._ Macmillan, 1959, rpt. any year.
+Strunk and White. {{% resource_link "abc3e9f0-0fb3-42b8-94d4-e59b6ed15821" "_The Elements of Style_" %}}_._ Macmillan, 1959, rpt. any year.
 
 Leslie C. Perelman, James Paradis, and Edward Barrett. _The Mayfield Handbook of Technical and Scientific Writing_. Mountain View, California: Mayfield, 1998.
 
-A good dictionary (full-sized, preferably cloth, i.e., _[Merriam-Webster](http://www.m-w.com/)_)
+A good dictionary (full-sized, preferably cloth, i.e., _{{% resource_link "4fd584e8-bb89-4b42-937c-1e1dea6d3767" "Merriam-Webster" %}}_)
 
 Conway, Jill Ker. _When Memory Speaks: Reflections_ _on Autobiography._ New York : Knopf, 1998. ({{% resource_link "dd16ae4a-d765-8d7a-4627-41dbe2d2f876" "PDF" %}})
 

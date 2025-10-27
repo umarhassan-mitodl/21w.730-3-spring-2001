@@ -4,8 +4,6 @@ description: ''
 file: /courses/21w-730-3-expository-writing-autobiography-theory-and-practice-spring-2001/4f6e45e6659fba3bec434ea6dffafc41_Introduction_to_Portfolio.pdf
 file_size: 81005
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

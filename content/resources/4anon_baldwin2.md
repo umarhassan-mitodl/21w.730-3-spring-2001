@@ -4,8 +4,6 @@ description: Student response to fourth written assignment.
 file: /courses/21w-730-3-expository-writing-autobiography-theory-and-practice-spring-2001/3895430862c5e2aaed5431be11c8a480_4anon_baldwin2.pdf
 file_size: 208788
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

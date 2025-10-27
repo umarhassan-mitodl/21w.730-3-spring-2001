@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, the schedule and routines, attendance and participation, writing
   groups, conferences, plagiarism policy, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -65,7 +63,7 @@ Conferences
 Plagiarism
 ----------
 
-Plagiarism is the **unattributed** use of someone else's ideas or words, whether paraphrased or duplicated exactly. It results in penalties from "F" grades to expulsion. Plagiarism robs you of finding out what you think; it also robs the author. Avoid it. For details, visit [MIT Online Writing Center](http://web.mit.edu/writing); MIT students may consult _The Mayfield Handbook of Technical & Scientific Writing_ online about citing sources.
+Plagiarism is the **unattributed** use of someone else's ideas or words, whether paraphrased or duplicated exactly. It results in penalties from "F" grades to expulsion. Plagiarism robs you of finding out what you think; it also robs the author. Avoid it. For details, visit {{% resource_link "5420df9d-3119-4b85-a277-372f1a24d969" "MIT Online Writing Center" %}}; MIT students may consult _The Mayfield Handbook of Technical & Scientific Writing_ online about citing sources.
 
 Grades
 ------
